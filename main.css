@@ -1,0 +1,53 @@
+body {
+    background-color: #ff1a1a ;
+}
+
+h1 {
+    border: 3px solid white;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+h2 { 
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+    font-family: 'Arvo', serif;
+
+}
+
+p {
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 17px;
+}
+
+body {
+    color: #1a1aff;
+    max-width: 685px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+a:visited {
+    color: #000000;
+}
+
+a:link {
+    color: #66ffff;
+}
+
+img {
+    max-width: 100%;
+}
